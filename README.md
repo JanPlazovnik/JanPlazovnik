@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hey there 👋
+
+I'm Jan, a freelance web developer from Slovenia and currently a student at the [Faculty of Electrical Engineering and Computer Science](https://feri.um.si/en/).
+
+I mostly work on backend jobs, but in my free time, I fiddle around with various side projects. Some of which are publicly available right here on my GitHub profile.
+
+###### Find more on my [website](https://www.plazovnik.si/) 🖥️
 
 <!--
 **JanPlazovnik/JanPlazovnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
