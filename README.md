@@ -6,6 +6,9 @@ I mostly work on backend jobs, but in my free time I fiddle around with various 
 
 ###### Find more on my [website](https://www.plazovnik.si/) 🖥️
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=JanPlazovnik&show_icons=true">
+ </p>
 <!--
 **JanPlazovnik/JanPlazovnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
